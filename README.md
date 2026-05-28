@@ -2,7 +2,7 @@
 
 A web application showcasing the inner workings of sorting algorithms.
 
-Implemented algorithms:
+Implemented algorithms are :-
 1) Bubble sort
 2) Selection sort
 3) Insertion sort
